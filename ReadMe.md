@@ -43,7 +43,7 @@ Contributions are always welcome! If you would like to contribute to this projec
 4. Submit a pull request. ✔
 
 ## Deployment 🚀
-This website was deployed using GH-Pages and by clicking on the link you'll be able to see it in action live preview can. Click [here](https://dzenis-h.github.io/Portofolio-Prototype-V2).
+This website was deployed using GH-Pages and by clicking on the link you'll be able to see it in action live preview can. Click [here](https://dzenis-h.github.io/Portfolio-Prototype).
 
 
 If you like what you see, please consider giving it a ⭐
