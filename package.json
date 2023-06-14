@@ -1,0 +1,18 @@
+{
+  "name": "Portofolio-Prototype-V2",
+  "version": "2.0.0",
+  "description": "Personal responsive portfolio website",
+  "homepage": "https://dzenis-h.github.io/dzenis-h-Portofolio-Prototype-V2.0",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --resrusive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": {
+    "name": "Dzenis H.",
+    "url": "https://dzenis.tech"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "1.2.0"
+  }
+}

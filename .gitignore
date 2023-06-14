@@ -1,0 +1,8 @@
+node_modules
+package-lock
+desktop.ini
+.vscode
+.firebase
+.firebaserc
+firebase.json
+.DS_Store
